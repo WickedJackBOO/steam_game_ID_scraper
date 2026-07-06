@@ -75,3 +75,7 @@ This tool extracts all your Steam games from your Steam Community library page a
 ## License
 
 MIT
+
+## Used AI
+
+yes
